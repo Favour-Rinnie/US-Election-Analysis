@@ -1,5 +1,3 @@
-#An interactive Power BI dashboard analyzing U.S. election data to uncover voting patterns and regional trends.
-
 📊 US Election Data Analysis – Power BI Dashboard
 
 📌 Project Overview
